@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.o
+*.out
+*.obj
+*.dll
+*.bin
+
+# Temporary files
+tempCodeRunnerFile.c
+
+# Competitive Companion temporary files
+.cph/
